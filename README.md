@@ -8,5 +8,5 @@
 
 * Dream to be a full-stack develop engineer✨.
 
-[![Chunfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunfeng-z&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunfeng-z&theme=tokyonight&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Chunfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunfeng-z&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunfeng-z&theme=tokyonight&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
