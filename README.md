@@ -10,3 +10,4 @@
 
 [![Chunfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunfeng-z&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunfeng-z&theme=tokyonight&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Chun feng profile views](https://u8views.com/api/v1/github/profiles/95091565/views/day-week-month-total-count.svg)](https://u8views.com/github/Chunfeng-z)
